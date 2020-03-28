@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoffeeCafe</string>
+    <string name="applogo">CoffeeBuzz</string>
+    <string name="todo">TODO</string>
+    <string name="Thank_You" />
+    <string-array name="options">
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>Snacks</item>
+        <item>Others</item>
+    </string-array>
+</resources>
